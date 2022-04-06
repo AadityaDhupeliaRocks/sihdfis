@@ -1,0 +1,137 @@
+body {
+
+
+	background-color: lightpink;
+}
+
+h1{
+
+	color: mediumpurple;
+	font-family: roboto;
+	border-width: 5px;
+	border-style: dashed;
+	border-color: red;
+
+}
+
+h2 {
+size: 30px;
+	color: violet;
+}
+
+h3 {
+
+	color: lightblue;
+}
+
+h4 {
+
+	color: blueviolet;
+}
+
+h5{
+
+	color: rgb(34, 200, 150);
+	font-family: fantasy;
+	border-width: 6px;
+	border-style: groove;
+	border-color: violet;
+font-size: 20px;
+
+}
+
+img {
+
+	border-width: 5px;
+	border-style: ridge;
+    border-color: green;
+    width: 500px;
+    height: 500pxpx;
+
+
+}
+
+
+p {
+    font-size: 25px;
+	color: purple;
+	font-family: serif;
+}
+
+a {
+
+	font-size: 20px;
+}
+
+h6 {
+
+	font-size: 25px;
+}
+
+.instagram {
+
+	size: 5px;
+}
+
+.mail {
+
+	size: 5px;
+}
+
+ b {
+
+ 	size: 10px;
+ }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
